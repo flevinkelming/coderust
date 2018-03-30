@@ -1,4 +1,4 @@
-Coderust 2.0 algorithms implemented in Go.
+Algorithms implemented in Go.
 
 ## To do:
 
